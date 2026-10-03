@@ -1,6 +1,8 @@
-# OpenSource 101
+# OpenSource 101 by Tejas S (first edit)
+
 
 # Make Your First Open Source Contribution
+
 
 Never contributed to open source before?
 
