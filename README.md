@@ -1,14 +1,15 @@
-# OpenSource 101
+# OpenSource 101 by Omkar
 
 # Make Your First Open Source Contribution
 
 Never contributed to open source before?
+No??
 
 This repository is for you.
 
 For this activity, you don't need to know Git commands or understand complicated Git workflows. We'll start with something simple: **make a small change to this README and submit your first Pull Request.**
 
----
+-----------
 
 ## How does this work?
 
@@ -28,7 +29,7 @@ This creates your own copy of the repository under your GitHub account.
 
 You can make changes to your fork without affecting the original repository.
 
----
+-----------
 
 ### 2. Open your fork
 
@@ -40,7 +41,7 @@ You'll see something similar to:
 
 Make sure you're working on **your fork**, not the original repository.
 
----
+-----------
 
 ### 3. Edit the README
 
