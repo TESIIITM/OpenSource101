@@ -171,7 +171,7 @@ A contribution can simply be:
 - Adding a useful resource
 - Improving accessibility or formatting
 
-The goal of your first contribution is not to impress anyone.
+The goal of your first contribution is not to impress anyone.   
 
 **The goal is to understand how contributing works.**
 
