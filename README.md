@@ -151,7 +151,7 @@ Pull Request
 
 This is the same basic idea used when contributing to much larger open source projects.
 
-The only difference is that real projects may involve more code, testing, discussions and review.
+The only difference is that real projects may involve more code, testing, discussions, and review.
 
 ---
 
@@ -161,7 +161,7 @@ For your first contribution, **keep it small**.
 
 You don't need to fix a huge bug or build a new feature.
 
-A contribution can simply be:
+A contribution can be:
 
 - Fixing a typo
 - Improving documentation
@@ -188,3 +188,9 @@ Open a Pull Request.**
 Welcome to open source.
 
 **Your first contribution starts here.**
+
+---
+
+**Name:** Nikunj Negi
+
+**Roll No.:** 2026BMS039
