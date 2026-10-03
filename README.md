@@ -163,7 +163,6 @@ You don't need to fix a huge bug or build a new feature.
 
 A contribution can simply be:
 
-- Fixing a typo
 - Improving documentation
 - Adding an example
 - Updating a README
