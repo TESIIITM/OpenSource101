@@ -2,7 +2,7 @@
 
 # Make Your First Open Source Contribution
 
-Never contributed to open source before?
+Never contributed to an open source before?
 
 This repository is for you.
 
