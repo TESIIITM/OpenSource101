@@ -11,6 +11,7 @@ For this activity, you don't need to know Git commands or understand complicated
 ---
 
 ## How does this work?
+I HAVE CHANGED IT.
 
 The basic flow is:
 
