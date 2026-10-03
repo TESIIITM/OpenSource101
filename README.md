@@ -8,7 +8,7 @@ This repository is for you.
 
 For this activity, you don't need to know Git commands or understand complicated Git workflows. We'll start with something simple: **make a small change to this README and submit your first Pull Request.**
 
----
+--- 
 
 ## How does this work?
 
