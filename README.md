@@ -178,6 +178,7 @@ The goal of your first contribution is not to impress anyone.
 ---
 
 ## Ready?
+# Lets officially get started with the journey of OpenSource
 
 Find something small you can improve.
 
