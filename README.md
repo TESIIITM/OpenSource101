@@ -18,7 +18,7 @@ The basic flow is:
 
 That's it.
 
-### 1. Fork this repository
+### 1) Fork this repository
 
 Open this repository on GitHub.
 
@@ -30,7 +30,7 @@ You can make changes to your fork without affecting the original repository.
 
 ---
 
-### 2. Open your fork
+### 2) Open your fork
 
 After forking, GitHub will take you to your copy of the repository.
 
@@ -42,7 +42,7 @@ Make sure you're working on **your fork**, not the original repository.
 
 ---
 
-### 3. Edit the README
+### 3) Edit the README
 
 Open the `README.md` file.
 
@@ -64,7 +64,7 @@ For example, you can:
 
 ---
 
-### 4. Commit your changes
+### 4) Commit your changes
 
 After making your changes, scroll down.
 
@@ -84,7 +84,7 @@ You have now made a change to your fork.
 
 ---
 
-### 5. Create a Pull Request
+### 5) Create a Pull Request
 
 Go back to your fork.
 
