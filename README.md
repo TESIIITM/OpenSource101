@@ -16,7 +16,7 @@ The basic flow is:
 
 **Fork → Edit → Commit → Pull Request → Merge**
 
-That's it.
+That is it.
 
 ### 1. Fork this repository
 
@@ -32,7 +32,7 @@ You can make changes to your fork without affecting the original repository.
 
 ### 2. Open your fork
 
-After forking, GitHub will take you to your copy of the repository.
+After forking, GitHub will take you to your copy of the repo.
 
 You'll see something similar to:
 
@@ -188,3 +188,5 @@ Open a Pull Request.**
 Welcome to open source.
 
 **Your first contribution starts here.**
+
+
