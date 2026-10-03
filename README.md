@@ -4,7 +4,7 @@
 
 Never contributed to open source before?
 
-This repository is for you.
+This repository is for_you.
 
 For this activity, you don't need to know Git commands or understand complicated Git workflows. We'll start with something simple: **make a small change to this README and submit your first Pull Request.**
 
