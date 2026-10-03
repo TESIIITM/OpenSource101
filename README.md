@@ -1,9 +1,7 @@
 # OpenSource 101
-
 # Make Your First Open Source Contribution
 
 Never contributed to open source before?
-
 This repository is for you.
 
 For this activity, you don't need to know Git commands or understand complicated Git workflows. We'll start with something simple: **make a small change to this README and submit your first Pull Request.**
@@ -15,7 +13,6 @@ For this activity, you don't need to know Git commands or understand complicated
 The basic flow is:
 
 **Fork → Edit → Commit → Pull Request → Merge**
-
 That's it.
 
 ### 1. Fork this repository
