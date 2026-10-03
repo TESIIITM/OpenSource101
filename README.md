@@ -26,7 +26,7 @@ Click the **Fork** button in the top-right corner.
 
 This creates your own copy of the repository under your GitHub account.
 
-You can make changes to your fork without affecting the original repository.
+You can make changes to your fork without affecting the original repository so that you can preview your changes and experiment with it.
 
 ---
 
