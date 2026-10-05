@@ -1,4 +1,4 @@
-# OpenSource 101
+# OpenSource  101
 
 # Make Your First Open Source Contribution
 
