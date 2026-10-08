@@ -6,7 +6,7 @@ Never contributed to open source before?
 
 This repository is for you.
 
-For this activity, you don't need to know Git commands or understand complicated Git workflows. We'll start with something simple: **make a small change to this README and submit your first Pull Request.**
+For this activity, you don't need to know Git commands or understand complicated Git workflows. We'll start with something simple: **Make a small change to this README and submit your first Pull Request.**
 
 --- 
 
