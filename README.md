@@ -3,6 +3,7 @@
 # Make Your First Open Source Contribution
 
 Never contributed to open source before?
+THIS IS THE CHANCE TO ENTER AND UNDERSTAND A NEW WORLD ;
 
 This repository is for you.
 
