@@ -3,9 +3,9 @@
 # Make Your First Open Source Contribution
 
 Never contributed to open source before?
-
+yeah man......
 This repository is for you.
-
+OMG!!!
 For this activity, you don't need to know Git commands or understand complicated Git workflows. We'll start with something simple: **make a small change to this README and submit your first Pull Request.**
 
 --- 
