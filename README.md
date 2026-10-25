@@ -188,3 +188,9 @@ Open a Pull Request.**
 Welcome to open source.
 
 **Your first contribution starts here.**
+
+---
+
+## Contributors
+
+- [Aditya27-02](https://github.com/Aditya27-02) — First open-source contribution.
