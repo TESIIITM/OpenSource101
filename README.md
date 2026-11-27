@@ -188,3 +188,5 @@ Open a Pull Request.**
 Welcome to open source.
 
 **Your first contribution starts here.**
+Learning OPEN_SOURCE, hope to understand all this stuff soon.
+
